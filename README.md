@@ -11,6 +11,6 @@ Nous vous invitons donc à aller visiter la section `Wiki` de ce dépôt pour d�
 ## Membre de l'équipe
 * MEJEAN Oriane
 * MEKIDICHE Idris
-* RATIA Karmen
+* RATIANANAHARY Karmen
 * RIBBE Jules
 * TORCHIN Maxence
